@@ -2,7 +2,7 @@
 
 
 <hr>
-# Hei, Mitt navn er Naibullah. Jeg går første på informatikk
+
 
 **My items**
 <br>
