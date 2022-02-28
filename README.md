@@ -4,11 +4,12 @@
 <hr>
 
 
-**My items**
+**Mine emner**
 <br>
-1. Item1
-2. Item2
-3. Item3
+1. Diskret mattematikk
+2. Objekt orientert programmering
+3. MMI
+4. tjenester og nett
 
 [VG](https://www.vg.no/)
 
